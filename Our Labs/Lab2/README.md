@@ -49,4 +49,4 @@ The model is exceptionally good at catching actual security threats (anomalies),
 
 Because the model only looked at the **hour and minute,** it mapped a time-density boundary. The dense cluster of normal daytime office hours was cleanly separated from the sparse late-night hours. However, because some normal logins happen early in the morning or late in the afternoon (near the boundary edges), the unsupervised algorithm mistakenly treated them as mathematical outliers.
 
-![Visual Metrics](Evaluation Metrics.png)
+![Visual Metrics](Evaluation_Metrics.png)
