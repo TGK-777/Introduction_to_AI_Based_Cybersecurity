@@ -5,6 +5,10 @@
 * Gilad Kogan
 * Shahar Sidon
 
+## Purpose of the lab
+In this lab, we analyzed how raw security logs appear in a SOC dashboard to better understand the concepts covered in class.
+This README briefly describes the experiments conducted, including an optional simulator.
+
 ## Evidence -> Rule -> Technique -> Tactic -> Uncertainty
 
 | | T1110 - Brute Force | T1046 - Network Service Discovery |
